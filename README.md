@@ -1,4 +1,4 @@
-# Tkinter Based Application to check Your Net Speeed
+# Tkinter Based Application to check Your Net Speed
 
 
 ## About
